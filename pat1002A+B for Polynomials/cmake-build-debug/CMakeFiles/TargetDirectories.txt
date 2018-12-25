@@ -1,0 +1,3 @@
+C:/Users/hdutyq/Desktop/PAT/pat1002A+B for Polynomials/cmake-build-debug/CMakeFiles/pat1002A_B_for_Polynomials.dir
+C:/Users/hdutyq/Desktop/PAT/pat1002A+B for Polynomials/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hdutyq/Desktop/PAT/pat1002A+B for Polynomials/cmake-build-debug/CMakeFiles/rebuild_cache.dir

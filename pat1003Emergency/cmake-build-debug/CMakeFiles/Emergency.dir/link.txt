@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Emergency.dir/objects.a
+C:\mingw\bin\ar.exe cr CMakeFiles\Emergency.dir/objects.a @CMakeFiles\Emergency.dir\objects1.rsp
+C:\mingw\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Emergency.dir/objects.a -Wl,--no-whole-archive  -o Emergency.exe -Wl,--out-implib,libEmergency.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Emergency.dir\linklibs.rsp
