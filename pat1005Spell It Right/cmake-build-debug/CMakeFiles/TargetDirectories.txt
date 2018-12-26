@@ -1,0 +1,4 @@
+C:/Users/hdutyq/Desktop/PAT/pat1005Spell It Right/cmake-build-debug/CMakeFiles/pat1005Spell_It_Right2.dir
+C:/Users/hdutyq/Desktop/PAT/pat1005Spell It Right/cmake-build-debug/CMakeFiles/pat1005Spell_It_Right.dir
+C:/Users/hdutyq/Desktop/PAT/pat1005Spell It Right/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hdutyq/Desktop/PAT/pat1005Spell It Right/cmake-build-debug/CMakeFiles/rebuild_cache.dir
