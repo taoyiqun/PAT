@@ -1,4 +1,4 @@
-//第二个测试样例未过
+
 #include <stdio.h>
 #include <string.h>
 
@@ -53,6 +53,10 @@ int main() {
     int res=0;
     for (int i = 0; i < len; ++i) {
         res=res+num[i]-'0';
+    }
+    if(res==0){
+        printf("zero");
+        return 0;
     }
     int temp=res;
     int ff=1;
