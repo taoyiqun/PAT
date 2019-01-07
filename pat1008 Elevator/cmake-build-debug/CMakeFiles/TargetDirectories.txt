@@ -1,0 +1,3 @@
+C:/Users/hdutyq/Desktop/PAT/pat1008 Elevator/cmake-build-debug/CMakeFiles/pat1008_Elevator.dir
+C:/Users/hdutyq/Desktop/PAT/pat1008 Elevator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hdutyq/Desktop/PAT/pat1008 Elevator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

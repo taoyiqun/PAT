@@ -1,0 +1,3 @@
+C:/Users/hdutyq/Desktop/PAT/pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hdutyq/Desktop/PAT/pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/pat1009Product_of_Polynomials.dir
+C:/Users/hdutyq/Desktop/PAT/pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/edit_cache.dir
