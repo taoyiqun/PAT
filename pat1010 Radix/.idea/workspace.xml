@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="pat1009Product_of_Polynomials" targetName="pat1009Product_of_Polynomials" />
+      <config projectName="pat1010_Radix" targetName="pat1010_Radix" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,9 +11,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ccadf28-7184-4eb4-871b-e6975f7a600c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    <list default="true" id="faa648fd-4684-4cc3-9b77-f1a965f6119b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pat1009Product of Polynomials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pat1009Product of Polynomials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/pat1009Product_of_Polynomials.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/pat1009Product_of_Polynomials.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/pat1009Product_of_Polynomials.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/CMakeFiles/pat1009Product_of_Polynomials.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/pat1009Product_of_Polynomials.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../pat1009Product of Polynomials/cmake-build-debug/pat1009Product_of_Polynomials.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pat1009Product of Polynomials/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../pat1009Product of Polynomials/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="34" lean-forward="true" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -68,7 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects/polynomial多项式加减乘/main.cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -86,7 +90,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="pat1009Product_of_Polynomials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pat1009Product_of_Polynomials" TARGET_NAME="pat1009Product_of_Polynomials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pat1009Product_of_Polynomials" RUN_TARGET_NAME="pat1009Product_of_Polynomials">
+    <configuration name="pat1010_Radix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pat1010_Radix" TARGET_NAME="pat1010_Radix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pat1010_Radix" RUN_TARGET_NAME="pat1010_Radix">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -97,44 +101,39 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0ccadf28-7184-4eb4-871b-e6975f7a600c" name="Default Changelist" comment="" />
-      <created>1545898068500</created>
+      <changelist id="faa648fd-4684-4cc3-9b77-f1a965f6119b" name="Default Changelist" comment="" />
+      <created>1547206798037</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1545898068500</updated>
-      <workItem from="1545898072440" duration="2798000" />
-      <workItem from="1546079865994" duration="1128000" />
-      <workItem from="1546149498267" duration="11000" />
-      <workItem from="1546429194515" duration="620000" />
-      <workItem from="1546429819695" duration="4359000" />
-      <workItem from="1546510040507" duration="44000" />
-      <workItem from="1547205615465" duration="1182000" />
+      <updated>1547206798037</updated>
+      <workItem from="1547206799508" duration="36000" />
+      <workItem from="1547207025645" duration="9616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10142000" />
+    <option name="totallyTimeSpent" value="9652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24896266" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.515906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32808024" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29942694" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.12464589" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32808024" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -145,45 +144,29 @@
     <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.c</url>
-          <line>3</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="p" language="ObjectiveC" />
+        <watch expression="*num" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>p</expression-string>
+        <expression-string>*num</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/CLionProjects/polynomial多项式加减乘/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1146">
-          <caret line="184" column="12" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="34" lean-forward="true" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
